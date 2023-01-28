@@ -1,0 +1,4 @@
+outs:
+- md5: b20f08528a535ad38af0d1bec0397568
+  size: 65683081
+  path: census_rfmodel.pkl
